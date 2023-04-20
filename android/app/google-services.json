@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "765798684091",
+    "project_id": "test-a08c3",
+    "storage_bucket": "test-a08c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765798684091:android:c81b11d0dca38d24cc209e",
+        "android_client_info": {
+          "package_name": "com.example.drony"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765798684091-rmj83ssrde8k3bclgp0ebs6i615e87gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8lNm8O1v1qQW1M7kUuSeILBM7H4__KBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765798684091-rmj83ssrde8k3bclgp0ebs6i615e87gl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "765798684091-ni27e9bck85tahb8ufhiniup9dgmpbud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.drony"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

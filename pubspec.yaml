@@ -1,0 +1,54 @@
+name: drony
+description: A new Flutter project.
+
+#publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  animated_text_kit: ^4.2.2
+  firebase_core: ^2.9.0
+  firebase_auth: ^4.4.0
+  google_nav_bar: ^5.0.6
+  flutter_map: ^3.1.0
+  geocoding: ^2.1.0
+  geolocator: ^9.0.2
+  latlng: ^0.2.1
+  async: ^2.10.0
+  dio: ^5.1.1
+  google_maps_flutter: ^2.2.5
+  flutter_google_places: ^0.3.0
+  cloud_firestore: ^4.5.1
+  google_maps_webservice: ^0.0.19
+  http: ^0.13.5
+  sqflite: ^2.2.6
+  path_provider: ^2.0.14
+  flutter_polyline_points: ^1.0.0
+  location: ^4.4.0
+  web_socket_channel: ^2.4.0
+#  permission:
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - lib/Assets/images/
+
+
+
+

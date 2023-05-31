@@ -20,9 +20,7 @@ class _MapScreenState extends State<MapScreen> {
   static const CameraPosition initialCameraPosition =
       CameraPosition(target: LatLng(0, 0), zoom: 19);
 
-  String apiKey = Platform.isAndroid
-      ? 'AIzaSyCwIGuJDJ3PUJEFjRV_WTWD58gw-ptZjsI'
-      : 'AIzaSyACrEr5zdqzt3I1ffXYgZmUKy4MzdM0fKg';
+  String apiKey = Platform.isAndroid ? 'ANDROID_API_KEY' : 'IOS_API_KEY';
 
   Set<Marker> markers = {};
 
@@ -263,7 +261,7 @@ class _MapScreenState extends State<MapScreen> {
               child: ElevatedButton(
                 onPressed: () {
                   print("This button was clicked");
-// Do something when button is pressed
+                  // Do something when button is pressed
                 },
                 child: Text('Request'),
                 style: ElevatedButton.styleFrom(

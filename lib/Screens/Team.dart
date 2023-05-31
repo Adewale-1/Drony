@@ -16,21 +16,21 @@ class _TeamState extends State<Team> {
       'image': 'lib/Assets/images/20501871.jpg',
     },
     {
-      'name': 'Ethan Segrue',
+      'name': 'John Doe',
       'major': 'Aerospace Engineering',
-      'email': 'segrue.3@osu.edu',
+      'email': 'JohnDoe@osu.edu',
       'image': 'lib/Assets/images/spongebob.webp',
     },
     {
-      'name': 'Daniel Dawit',
+      'name': 'John Doe',
       'major': 'Computer Science and Engineering',
-      'email': 'dawit.6@osu.edu',
+      'email': 'JohnDoe@osu.edu',
       'image': 'lib/Assets/images/patrick.png',
     },
     {
-      'name': 'Alec Testa',
+      'name': 'John Doe',
       'major': 'Industrial and Systems Engineering',
-      'email': 'actesta487@gmail.com',
+      'email': 'JohnDoe@osu.edu',
       'image': 'lib/Assets/images/squidward.png',
     },
   ];

@@ -102,14 +102,14 @@ class _AboutState extends State<About> {
 Below are some screenshots of the application:
 
 <p float="left">
-  <img src="/ReadmeImages/1.png" width="100" />
-  <img src="/ReadmeImages/2.png" width="100" /> 
-  <img src="/ReadmeImages/3.png" width="100" />
-  <img src="/ReadmeImages/4.png" width="100" />
-  <img src="/ReadmeImages/5.png" width="100" />
-  <img src="/ReadmeImages/6.png" width="100" />
-  <img src="/ReadmeImages/7.png" width="100" />
-  <img src="/ReadmeImages/8.png" width="100" />
+  <img src="/ReadmeImages/1.png" width="200" />
+  <img src="/ReadmeImages/2.png" width="200" /> 
+  <img src="/ReadmeImages/3.png" width="200" />
+  <img src="/ReadmeImages/4.png" width="200" />
+  <img src="/ReadmeImages/5.png" width="200" />
+  <img src="/ReadmeImages/6.png" width="200" />
+  <img src="/ReadmeImages/7.png" width="200" />
+  <img src="/ReadmeImages/8.png" width="200" />
 </p>
 
 ## Contributing

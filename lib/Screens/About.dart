@@ -14,7 +14,7 @@ class _AboutState extends State<About> {
       backgroundColor: Colors.white,
       appBar: AppBar(
         backgroundColor: Colors.blue.shade300,
-        title: Text('About Engineering Team M'),
+        title: Text('About Team'),
       ),
       body: SingleChildScrollView(
         padding: EdgeInsets.all(16.0),
@@ -22,7 +22,7 @@ class _AboutState extends State<About> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              'Engineering Team M',
+              'Team',
               style: TextStyle(
                   fontSize: 24,
                   fontWeight: FontWeight.bold,
@@ -46,7 +46,7 @@ class _AboutState extends State<About> {
             ),
             SizedBox(height: 8),
             Text(
-              'Engineering Team M is dedicated to making medication accessible for individuals by revolutionizing the delivery process. Our innovative solution involves using drones for medication delivery, ensuring a seamless and efficient experience for users. To enhance the user experience, we have developed a mobile application that allows users to track the estimated time of arrival, monitor the live location of the drone, and access timely customer support.',
+              'The Team is dedicated to making medication accessible for individuals by revolutionizing the delivery process. Our innovative solution involves using drones for medication delivery, ensuring a seamless and efficient experience for users. To enhance the user experience, we have developed a mobile application that allows users to track the estimated time of arrival, monitor the live location of the drone, and access timely customer support.',
               style: TextStyle(fontSize: 16, color: Colors.black),
             ),
             SizedBox(height: 30),

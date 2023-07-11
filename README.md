@@ -99,14 +99,18 @@ class _AboutState extends State<About> {
 
 ## Images
 
-![Homepage](/ReadmeImages/1.png)
-![Registration](/ReadmeImages/2.png)
-![Maps](/ReadmeImages/3.png)
-![Chat](ReadmeImages/4.png)
-![Settings](/ReadmeImages/5.png)
-![User Profile](/ReadmeImages/6.png)
-![Team](/ReadmeImages/7.png)
-![About Team](/ReadmeImages/8.png)
+Below are some screenshots of the application:
+
+<p float="left">
+  <img src="/ReadmeImages/1.png" width="100" />
+  <img src="/ReadmeImages/2.png" width="100" /> 
+  <img src="/ReadmeImages/3.png" width="100" />
+  <img src="/ReadmeImages/4.png" width="100" />
+  <img src="/ReadmeImages/5.png" width="100" />
+  <img src="/ReadmeImages/6.png" width="100" />
+  <img src="/ReadmeImages/7.png" width="100" />
+  <img src="/ReadmeImages/8.png" width="100" />
+</p>
 
 ## Contributing
 

@@ -99,14 +99,14 @@ class _AboutState extends State<About> {
 
 ## Images
 
-![Homepage(/ReadmeImages/1.png)
-![Registration(/ReadmeImages/2.png)
-![Maps(/ReadmeImages/3.png)
-![Chat(ReadmeImages/4.png)
-![Settings(/ReadmeImages/5.png)
-![User Profile(/ReadmeImages/6.png)
-![Team(/ReadmeImages/7.png)
-![About Team(/ReadmeImages/8.png)
+![Homepage](/ReadmeImages/1.png)
+![Registration](/ReadmeImages/2.png)
+![Maps](/ReadmeImages/3.png)
+![Chat](ReadmeImages/4.png)
+![Settings](/ReadmeImages/5.png)
+![User Profile](/ReadmeImages/6.png)
+![Team](/ReadmeImages/7.png)
+![About Team](/ReadmeImages/8.png)
 
 ## Contributing
 
